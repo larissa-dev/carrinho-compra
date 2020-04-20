@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    font: 18px Verdana,Geneva sans-serif;
+}
+
+.cabecalho{
+    width: 100%;
+    background: rgb(227,241,250);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    
+    
+    background: #348F50;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #56B4D3, #348F50);  
+    background: linear-gradient(to right, #56B4D3, #348F50); 
+	
+}
+
+.ui-menu-list{
+    padding-left: 350px;
+    padding-right: 350px;
+}
+
+.ui-menubar .ui-menuitem-link{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.tituloCabecalho{
+    font-size: 29px;
+    font-weight: bold;
+    color: rgb(217, 217, 217);
+    text-shadow: rgba(255, 255, 255, 0.1) -1px -1px 1px, rgba(0, 0, 0, 0.5) 1px 1px 1px;
+}

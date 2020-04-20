@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Larissa%20Alves/Google%20Drive/Ciencia%20da%20Computacao/7º%20período/Tópicos%20Especiais%20I/FeiraLivre/web/private/template/menu.xhtml</file>
+            <file>file:/C:/Users/Larissa%20Alves/Google%20Drive/Ciencia%20da%20Computacao/7º%20período/Tópicos%20Especiais%20I/FeiraLivre/src/java/br/com/carrinho/domain/Carrinho.java</file>
+            <file>file:/C:/Users/Larissa%20Alves/Google%20Drive/Ciencia%20da%20Computacao/7º%20período/Tópicos%20Especiais%20I/FeiraLivre/web/private/cadastros/carrinho/list.xhtml</file>
+            <file>file:/C:/Users/Larissa%20Alves/Google%20Drive/Ciencia%20da%20Computacao/7º%20período/Tópicos%20Especiais%20I/FeiraLivre/web/private/cadastros/produto/alter.xhtml</file>
+            <file>file:/C:/Users/Larissa%20Alves/Google%20Drive/Ciencia%20da%20Computacao/7º%20período/Tópicos%20Especiais%20I/FeiraLivre/src/java/br/com/carrinho/controller/CarrinhoController.java</file>
+            <file>file:/C:/Users/Larissa%20Alves/Google%20Drive/Ciencia%20da%20Computacao/7º%20período/Tópicos%20Especiais%20I/FeiraLivre/web/private/cadastros/produto/new.xhtml</file>
+            <file>file:/C:/Users/Larissa%20Alves/Google%20Drive/Ciencia%20da%20Computacao/7º%20período/Tópicos%20Especiais%20I/FeiraLivre/web/private/template/template.xhtml</file>
+            <file>file:/C:/Users/Larissa%20Alves/Google%20Drive/Ciencia%20da%20Computacao/7º%20período/Tópicos%20Especiais%20I/FeiraLivre/web/private/cadastros/carrinho/total.xhtml</file>
+            <file>file:/C:/Users/Larissa%20Alves/Google%20Drive/Ciencia%20da%20Computacao/7º%20período/Tópicos%20Especiais%20I/FeiraLivre/web/private/cadastros/produto/list.xhtml</file>
+            <file>file:/C:/Users/Larissa%20Alves/Google%20Drive/Ciencia%20da%20Computacao/7º%20período/Tópicos%20Especiais%20I/FeiraLivre/web/private/template/cabecalho.xhtml</file>
+            <file>file:/C:/Users/Larissa%20Alves/Google%20Drive/Ciencia%20da%20Computacao/7º%20período/Tópicos%20Especiais%20I/FeiraLivre/src/java/br/com/carrinho/domain/Produto.java</file>
+            <file>file:/C:/Users/Larissa%20Alves/Google%20Drive/Ciencia%20da%20Computacao/7º%20período/Tópicos%20Especiais%20I/FeiraLivre/src/java/br/com/carrinho/service/ProdutoService.java</file>
+            <file>file:/C:/Users/Larissa%20Alves/Google%20Drive/Ciencia%20da%20Computacao/7º%20período/Tópicos%20Especiais%20I/FeiraLivre/src/java/hibernate.cfg.xml</file>
+            <file>file:/C:/Users/Larissa%20Alves/Google%20Drive/Ciencia%20da%20Computacao/7º%20período/Tópicos%20Especiais%20I/FeiraLivre/web/index.xhtml</file>
+            <file>file:/C:/Users/Larissa%20Alves/Google%20Drive/Ciencia%20da%20Computacao/7º%20período/Tópicos%20Especiais%20I/FeiraLivre/src/java/br/com/carrinho/service/CarrinhoService.java</file>
+            <file>file:/C:/Users/Larissa%20Alves/Google%20Drive/Ciencia%20da%20Computacao/7º%20período/Tópicos%20Especiais%20I/FeiraLivre/src/java/br/com/carrinho/dao/CarrinhoDao.java</file>
+            <file>file:/C:/Users/Larissa%20Alves/Google%20Drive/Ciencia%20da%20Computacao/7º%20período/Tópicos%20Especiais%20I/FeiraLivre/src/java/br/com/carrinho/util/UtilMensagens.java</file>
+            <file>file:/C:/Users/Larissa%20Alves/Google%20Drive/Ciencia%20da%20Computacao/7º%20período/Tópicos%20Especiais%20I/FeiraLivre/web/private/cadastros/carrinho/new.xhtml</file>
+            <file>file:/C:/Users/Larissa%20Alves/Google%20Drive/Ciencia%20da%20Computacao/7º%20período/Tópicos%20Especiais%20I/FeiraLivre/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Larissa%20Alves/Google%20Drive/Ciencia%20da%20Computacao/7º%20período/Tópicos%20Especiais%20I/FeiraLivre/src/java/br/com/carrinho/dao/ProdutoDao.java</file>
+            <file>file:/C:/Users/Larissa%20Alves/Google%20Drive/Ciencia%20da%20Computacao/7º%20período/Tópicos%20Especiais%20I/FeiraLivre/src/java/br/com/carrinho/controller/ProdutoController.java</file>
+            <file>file:/C:/Users/Larissa%20Alves/Google%20Drive/Ciencia%20da%20Computacao/7º%20período/Tópicos%20Especiais%20I/FeiraLivre/web/resources/css/style.css</file>
+        </group>
+    </open-files>
+</project-private>
